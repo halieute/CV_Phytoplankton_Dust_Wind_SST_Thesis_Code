@@ -114,8 +114,8 @@ pip install numpy pandas scipy matplotlib seaborn scikit-learn statsmodels dcor
 If you use this code or methodology in your research, please cite:
 
 ```
-Souley, S. M. N. (2025). Response of phytoplankton under varying environmental 
-conditions in Cabo Verde: a seasonal and interannual analysis. 
+Souley, S. M. N. (2025). Response of phytoplankton under varying environmental
+conditions in Cabo Verde: a seasonal and interannual analysis.
 Master's Thesis, Atlantic Technical University, São Vicente, Cabo Verde.
 ```
 
@@ -125,9 +125,9 @@ This project is licensed under the MIT License - see the [License](License) file
 
 ## 👤 Author
 
-**Souleymane Maman Nouri Souley**  
-Institute of Engineering and Marine Sciences  
-Atlantic Technical University  
+**Souleymane Maman Nouri Souley**
+Institute of Engineering and Marine Sciences
+Atlantic Technical University
 São Vicente, Cabo Verde
 
 ## 🙏 Acknowledgments
