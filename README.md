@@ -2,7 +2,7 @@
 
 This repository contains the data analysis scripts and visualization tools for the Master's thesis titled **"Response of phytoplankton under varying environmental conditions in Cabo Verde: a seasonal and interannual analysis"** by Souleymane Maman Nouri Souley.
 
-**Institution:** Institute of Engineering and Marine Sciences, Atlantic Technical University, São Vicente, Cabo Verde
+**Institution:** [West African Science Service Centre on Climate Change and Adapted Land Use (WASCAL Cabo Verde School)](https://wascalcv.org/), Institute of Engineering and Marine Sciences, [Atlantic Technical University](https://sga.uta.cv/en), São Vicente, Cabo Verde
 
 ## 📋 Overview
 
@@ -12,6 +12,7 @@ This project investigates how phytoplankton communities in the Cabo Verde region
 
 ### Jupyter Notebooks
 
+- **[CV1_CV5.ipynb](CV1_CV5.ipynb)** - Comprehensive seasonal variations analysis across different Cabo Verde stations (CV1-CV5) with 2×2 subplot visualizations comparing CHL vs SST, Wind, AOD, and deposition patterns; includes seasonal anomaly calculations with 5-year moving average filter
 - **[Correlations_analysis.ipynb](Correlations_analysis.ipynb)** - Correlation analysis between phytoplankton chlorophyll-a and environmental variables (dust, wind, SST) with statistical significance testing
 - **[Inter_varia.ipynb](Inter_varia.ipynb)** - Interannual variability analysis of marine productivity and environmental drivers
 - **[Large_scale_climate_modes_marine_productivity.ipynb](Large_scale_climate_modes_marine_productivity.ipynb)** - Analysis of relationships between large-scale climate indices (Niño 3.4, NAO) and marine productivity
@@ -126,8 +127,9 @@ This project is licensed under the MIT License - see the [License](License) file
 ## 👤 Author
 
 **Souleymane Maman Nouri Souley**
+[West African Science Service Centre on Climate Change and Adapted Land Use (WASCAL Cabo Verde School)](https://wascalcv.org/)
 Institute of Engineering and Marine Sciences
-Atlantic Technical University
+[Atlantic Technical University](https://sga.uta.cv/en)
 São Vicente, Cabo Verde
 
 ## 🙏 Acknowledgments
