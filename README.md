@@ -126,10 +126,10 @@ This project is licensed under the MIT License - see the [License](License) file
 
 ## 👤 Author
 
-**Souleymane Maman Nouri Souley**  
-[West African Science Service Centre on Climate Change and Adapted Land Use (WASCAL Cabo Verde School)](https://wascalcv.org/)  
-Institute of Engineering and Marine Sciences  
-[Atlantic Technical University](https://sga.uta.cv/en)  
+**Souleymane Maman Nouri Souley**
+[West African Science Service Centre on Climate Change and Adapted Land Use (WASCAL Cabo Verde School)](https://wascalcv.org/)
+Institute of Engineering and Marine Sciences
+[Atlantic Technical University](https://sga.uta.cv/en)
 São Vicente, Cabo Verde
 
 ## 🙏 Acknowledgments
